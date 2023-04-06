@@ -1,0 +1,16 @@
+.fa-regular, .far {
+    font-weight: 900;
+    font-size: 200px;
+}
+.btn-outline-success {
+    color: #198754;
+    border-color: aqua;
+}
+.btn {
+    border: 5px solid aqua;
+    color: aliceblue;
+    font-weight: 900;
+    background-color: black;
+    margin-right: 200px;
+    
+}
